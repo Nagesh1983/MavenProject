@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>test123</groupId>
-  <artifactId>batch32</artifactId>
+  <artifactId>test</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>batch32</name>
